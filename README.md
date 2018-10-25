@@ -5,7 +5,7 @@
 Paper here: coming soon
 
 ## DApp Transactions Analysis: Dice2win Case Study
-52% of the bets were delivered by a suspicious system of linked addresses.
+`52% of the bets were delivered by a suspicious system of linked addresses.`  
 Paper here: coming soon
 
 
