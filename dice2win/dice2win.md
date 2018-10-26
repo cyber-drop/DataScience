@@ -21,7 +21,7 @@ The amount of Ethereum used in bets should be over 0.05 ETH.
 ## General statistics
 Dice2Win contract, which has been changed five times, is the main contract of the service. In parallel there was at least one contract with the same interface that co-existed with the main one. Figure 1 illustrates the period of activity for each contract version. In our research we used only the actual version of this contract with the address 0xd1ceeeeee83f8bcf3bedad437202b6154e9f5405.
 
-![History](./images/dice2win_history.png)
+![History](/images/dice2win_history.png)
 <center><i>Figure 1. Number of bets over time for Dice2Win contract versions</i></center>
 
 In total 817 players have placed their bets, the total number of bets is 93380. An average bet equals 0.2635, the total amount of all bets equals 24607.387 ETH. Dice2Win turnover displayed in figure 2.
