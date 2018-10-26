@@ -4,9 +4,9 @@
 
 Paper here: coming soon
 
-## DApp Transactions Analysis: Dice2win Case Study
+## [DApp Transactions Analysis: Dice2win Case Study](https://github.com/cyber-drop/DataScience/blob/master/dice2win/dice2win.md)
 `52% of the bets were delivered by a suspicious system of linked addresses.`  
-Paper here: coming soon
+Paper here: https://medium.com/@cyber_drop/dapp-transactions-analysis-dice2win-case-study-cbbf0f29f2f0
 
 
 ## Huge Ethereum Mixer
