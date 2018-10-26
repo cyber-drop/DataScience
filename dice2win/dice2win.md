@@ -38,7 +38,7 @@ The most popular bet is coin flip: this type of game is leading both by the numb
 
 48 out of 817 players have places the bets in the amount of more than 100 ETH. The volume of bets placed by these players equals 83.7% (28316.71 ETH), whereas  their amount is only 5.9% (48 addresses) of the total number. Figure 4 represents the proportions between different metrics for top addresses and for rest of them.
 
-![Bets for top](./images/top_sum_count.png)
+![Bets for top](/dice2win/images/top_sum_count.png)
 <center><i>Figure 4. Dice2Win overall bet volume and amount for players from top players and the rest of them</i></center>
 
 ## Suspicious addresses
