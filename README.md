@@ -1,8 +1,8 @@
 # DataScience
 
-## DApp Transactions Analysis: Ethroll suspicious gambler 
+## DApp Transactions Analysis: Etheroll suspicious gambler 
 
-Paper here: coming soon
+Paper here: https://medium.com/@cyber_drop/dapp-transactions-analysis-etheroll-suspicious-gambler-f37a7263da5
 
 ## [DApp Transactions Analysis: Dice2win Case Study](https://github.com/cyber-drop/DataScience/blob/master/dice2win/dice2win.md)
 `52% of the bets were delivered by a suspicious system of linked addresses.`  
