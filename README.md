@@ -1,17 +1,24 @@
 # DataScience
 
-## DApp Transactions Analysis: Etheroll suspicious gambler 
+## Ethereum Miners Analysis over Time  
+`How mining pools and miners behaved in time`  
+Paper here: https://medium.com/cyber-drop/ethereum-miners-analysis-over-time-7dbe32b328fe  
+
+## How we searched for miners for Robonomics token airdrop  
+`We found the addresses of active mining pools and miners`  
+Paper here: https://medium.com/cyber-drop/how-we-searched-for-miners-for-robonomics-token-airdrop-9b64e5c70f68  
+
+## DApp Transactions Analysis: Etheroll suspicious gambler  
 `41% of the bets were delivered by a suspicious system of linked addresses.`  
-Paper here: https://medium.com/@cyber_drop/dapp-transactions-analysis-etheroll-suspicious-gambler-f37a7263da5
+Paper here: https://medium.com/@cyber_drop/dapp-transactions-analysis-etheroll-suspicious-gambler-f37a7263da5  
 
-## [DApp Transactions Analysis: Dice2win Case Study](https://github.com/cyber-drop/DataScience/blob/master/dice2win/dice2win.md)
+## [DApp Transactions Analysis: Dice2win Case Study](https://github.com/cyber-drop/DataScience/blob/master/dice2win/dice2win.md)  
 `52% of the bets were delivered by a suspicious system of linked addresses.`  
-Paper here: https://medium.com/@cyber_drop/dapp-transactions-analysis-dice2win-case-study-cbbf0f29f2f0
+Paper here: https://medium.com/@cyber_drop/dapp-transactions-analysis-dice2win-case-study-cbbf0f29f2f0  
 
-
-## Huge Ethereum Mixer
-
-Paper here:https://blog.cyber.fund/huge-ethereum-mixer-6cf98680ee6c
+## Huge Ethereum Mixer  
+`68% of total Ethereum transaction value controlled by one system`  
+Paper here:https://blog.cyber.fund/huge-ethereum-mixer-6cf98680ee6c  
 
 For working with ipython3 notebook you need:
 1. Install and synchronize Parity 1.6.10 (sync Parity db isn't less than 24GB)
