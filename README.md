@@ -18,8 +18,9 @@ Paper here: https://medium.com/@cyber_drop/dapp-transactions-analysis-dice2win-c
 
 ## Huge Ethereum Mixer  
 `68% of total Ethereum transaction value controlled by one system`  
-Paper here:https://blog.cyber.fund/huge-ethereum-mixer-6cf98680ee6c  
-Python notebook here: [transaction_analysis_huge_ethereum_mixer_171125.ipynb](https://github.com/cyber-drop/DataScience/blob/master/transaction_analysis_huge_ethereum_mixer_171125.ipynb)
+Paper here: https://blog.cyber.fund/huge-ethereum-mixer-6cf98680ee6c  
+Python notebook here: [transaction_analysis_huge_ethereum_mixer_171125.ipynb](https://github.com/cyber-drop/DataScience/blob/master/transaction_analysis_huge_ethereum_mixer_171125.ipynb)  
+
 For working with ipython3 notebook you need:
 1. Install and synchronize Parity 1.6.10 (sync Parity db isn't less than 24GB)
 2. Launch ethdrain.py (https://github.com/cyberFund/ethdrain) with following parametrs:
