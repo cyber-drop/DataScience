@@ -1,5 +1,18 @@
 # DataScience
 
+## How changeable are ERC-20 tokens in time? Behavioral analysis studies  
+`What happens with ERC20 tokens? Everything is very good, even in a crisis, the volume of transactions was stable!  
+We classified ERC20 tokens transfers and see how classes are distributed over time`  
+Paper here: https://medium.com/cyber-drop/how-changeable-are-erc-20-tokens-in-time-behavioral-analysis-studies-163df851758f  
+
+## New Metrics on SANgraphs: ETH Locked Over Time  
+`The aim of our new metrics, now live on SANgraphs, is to measure the amount of ETH locked away in these contracts`  
+Paper here: https://santiment.net/blog/new-metrics-eth-locked/
+
+## What decentralized exchanges are and how they work  
+`We described the basic DEX operating principles`  
+Paper here: https://medium.com/cyber-drop/what-decentralized-exchanges-are-and-how-they-work-def21b8b4706  
+
 ## Ethereum Miners Analysis over Time  
 `How mining pools and miners behaved in time`  
 Paper here: https://medium.com/cyber-drop/ethereum-miners-analysis-over-time-7dbe32b328fe  
